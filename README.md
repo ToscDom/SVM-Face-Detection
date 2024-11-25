@@ -1,4 +1,4 @@
-# Face Detection using Support Vector Machine
+# Face Detection using Support Vector Machine Model
 This repository provides scripts for creating a custom face detection system without using pre-trained models. The approach leverages Histogram of Oriented Gradients (HOG) features for object detection, along with data augmentation, sliding windows, non-maximum suppression, FLAML library and  Support Vector Machines (SVM) classification.
 
 ## Approach Overview
