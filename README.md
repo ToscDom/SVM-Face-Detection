@@ -16,3 +16,24 @@ The best hyperparameters of SVM classifier model are evaluated by FLAML library.
 The trained SVM model is used for detecting faces in test images.
 A sliding window approach is employed to generate image patches for detection.
 Non-maximum suppression is applied to remove redundant bounding boxes and improve detection accuracy.
+
+# References
+1. https://medium.com/@mouse3mic3/a-practical-guide-to-automated-machine-learning-in-python-using-flaml-c73a714887a4
+
+2. H. Chandra, ‘Pipelines & Custom Transformers in scikit-learn: The step-by-step guide (with Python code)’, Medium, Jun. 27, 2020. https://towardsdatascience.com/pipelines-custom-transformers-in-scikit-learn-the-step-by-step-guide-with-python-code-4a7d9b068156.
+
+3. M. Tyagi, ‘HOG(Histogram of Oriented Gradients)’, Medium, Jul. 24, 2021. https://towardsdatascience.com/hog-histogram-of-oriented-gradients-67ecd887675f
+
+4. N. Dalal and B. Triggs, ‘Histograms of oriented gradients for human detection’, in 2005 IEEE computer society conference on computer vision and pattern recognition (CVPR’05), Ieee, 2005, pp. 886–893.
+
+5. C.-H. Yuan, ‘Face-Detection-with-a-Sliding-Window’. May 30, 2023. [Online]. Available: https://github.com/lionelmessi6410/Face-Detection-with-a-Sliding-Window
+
+6. ‘Face Detection Project’. https://www.cc.gatech.edu/classes/AY2016/cs4476_fall/results/proj5/html/agartia3/index.html
+
+7. J. Hosang, R. Benenson, and B. Schiele, ‘Learning non-maximum suppression’, in Proceedings of the IEEE conference on computer vision and pattern recognition, 2017, pp. 4507–4515.
+
+8. "ProfAI: A Virtual Data Science Coach," ProfessionAI, 2023. Online. Available: https://prof.profession.ai/
+
+9. “ChatGPT”. OpenAI's ChatGPT, 2023 - Conversational AI Language Model. [Online]. Available: https://chat.openai.com/
+
+10) https://colab.research.google.com/drive/1H5jn1nzTA1Y0FpsbKEIZYoA3VoKPp_3Z?usp=sharing
